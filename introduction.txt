@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is KABANDA Arnaud, and I am passionate about technology and software development. I enjoy learning how systems work and building applications that can solve real-world problems. Currently, I am developing my skills in programming, working with technologies like React, Node.js, and Laravel.
+
+I am especially interested in creating impactful solutions such as AI-powered systems and platforms that can help communities, particularly in Rwanda and beyond. I am always eager to learn, grow, and take on new challenges that will help me become a better developer.
